@@ -2,7 +2,7 @@
 
 // import java.util.*;
 
-// public class Main {
+// public class Tables {
 //     public static void main(String[] args) {
 //         Scanner sc = new Scanner(System.in);
 //         int table = sc.nextInt();
@@ -20,7 +20,7 @@
 
 // import java.util.*;
 
-// public class Main {
+// public class Tables {
 //     public static void main(String[] args) {
 //         Scanner sc = new Scanner(System.in);
 //         int table = sc.nextInt();
@@ -40,7 +40,7 @@
 
  import java.util.*;
 
-public class Main {
+public class Tables {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int table = sc.nextInt();
